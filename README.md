@@ -1,6 +1,6 @@
 #  Hi, I’m Chloe :relaxed:
 I’m currently studying **Finanical technology and Artifitical Intelligence** :desktop_computer: 
-- 👀 I’m interested in fixing errors :rofl: and making crafts :scissors:
+- 👀 I’m interested in building 3D models using Blender :rofl: and making crafts :scissors:
 - 💞️ I’m looking to collaborate on experienced developers :technologist:
 
 
